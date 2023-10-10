@@ -4,3 +4,5 @@ This repository documents my co-op internship experience at Curvance. During thi
 
 
 ![curvance-logo-3d-disk](https://github.com/gas-limit/curvance-internship/assets/100609687/eb959856-bfe5-4026-b24e-321b6c6a0731)
+<br/>
+https://www.curvance.com/
